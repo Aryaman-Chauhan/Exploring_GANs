@@ -1,2 +1,2 @@
 # Pix2Pix
-Implemented the [paper](https://arxiv.org/abs/1611.07004), and worked on two datasets, one being the [facade dataset](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset), and the other being [comic dataset](https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic). The report for the same can be found [here]().
+Implemented the [paper](https://arxiv.org/abs/1611.07004), and worked on two datasets, one being the [facade dataset](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset), and the other being [comic dataset](https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic). The report for the same can be found [here](https://github.com/Aryaman-Chauhan/Exploring_GANs/blob/main/06.Pix2Pix/CRISPReportPix2Pix.pdf).
